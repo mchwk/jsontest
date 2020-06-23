@@ -3,29 +3,29 @@
     {
       "id": 1,
       "date": "June 25, 2020",
-      "time": "11:00"
-      "name": "Bob Smith"
+      "time": "11:00",
+      "name": "Bob Smith",
       "test": "Spirometry"
     },
     {
       "id": 2,
       "date": "June 30, 2020",
-      "time": "10:00"
-      "name": "Amy Parker"
+      "time": "10:00",
+      "name": "Amy Parker",
       "test": "ECG"
     },
     {
       "id": 3,
       "date": "July 11, 2020",
-      "time": "8:00"
-      "name": "John Doe"
+      "time": "8:00",
+      "name": "John Doe",
       "test": "Alcohol"
     },
     {
       "id": 4,
       "date": "June 12, 2020",
-      "time": "11:00"
-      "name": "Sam Walker"
+      "time": "11:00",
+      "name": "Sam Walker",
       "test": "Vision"
     }
   ],
