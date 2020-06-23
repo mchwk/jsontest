@@ -1,0 +1,31 @@
+{
+  "appointments": [
+    {
+      "id": 1,
+      "title": "Appt 1"
+    },
+    {
+      "id": 2,
+      "title": "Appt 2"
+    },
+    {
+      "id": 3,
+      "title": "Appt 3"
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    },
+    {
+      "id": 2,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
