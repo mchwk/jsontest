@@ -2,30 +2,58 @@
   "appointments": [
     {
       "id": 1,
-      "date": "June 25, 2020",
+      "date": "July 3, 2020",
       "time": "11:00",
-      "name": "Bob Smith",
+      "name": "Bill Stevens",
       "test": "Spirometry"
     },
     {
       "id": 2,
-      "date": "June 30, 2020",
+      "date": "July 4, 2020",
       "time": "10:00",
-      "name": "Amy Parker",
+      "name": "Stella Parker",
       "test": "ECG"
     },
     {
       "id": 3,
-      "date": "July 11, 2020",
+      "date": "July 6, 2020",
       "time": "08:00",
       "name": "John Doe",
       "test": "Alcohol"
     },
     {
       "id": 4,
-      "date": "June 12, 2020",
+      "date": "Julu 6, 2020",
       "time": "11:00",
-      "name": "Sam Walker",
+      "name": "Bob Smith",
+      "test": "Spirometry"
+    },
+    {
+      "id": 5,
+      "date": "July 7, 2020",
+      "time": "10:00",
+      "name": "Amy Wayne",
+      "test": "ECG"
+    },
+    {
+      "id": 6,
+      "date": "July 8, 2020",
+      "time": "08:00",
+      "name": "John Ferguson",
+      "test": "Alcohol"
+    },
+    {
+      "id": 7,
+      "date": "July 11, 2020",
+      "time": "08:00",
+      "name": "Joseph Dunn",
+      "test": "Alcohol"
+    },
+    {
+      "id": 8,
+      "date": "July 12, 2020",
+      "time": "11:00",
+      "name": "Tim Wilson",
       "test": "Vision"
     }
   ],
@@ -43,7 +71,7 @@
       },
       "phone": "123-736-8031",
       "website": "hildegard.org",
-      "company": "Romaguera-Crona"
+      "company": "Company"
     },
     {
       "id": 2,
@@ -57,7 +85,7 @@
         "zipcode": "90566-7771"
       },
     "phone": "123-692-6593",
-    "company": "Deckow-Crist"
+    "company": "Company"
     },
     {
       "id": 3,
@@ -72,7 +100,7 @@
       },
       "phone": "123-123-4447",
       "website": "ramiro.info",
-      "company": "Romaguera-Jacobson"
+      "company": "Company"
   },
   {
       "id": 4,
@@ -87,7 +115,7 @@
       },
       "phone": "123-170-9623",
       "website": "kale.biz",
-      "company": "Robel-Corkery"
+      "company": "Company"
     },
     {
       "id": 5,
@@ -101,7 +129,7 @@
         "zipcode": "90566-7771"
       },
     "phone": "123-192-1491",
-    "company": "Deckow-Crist"
+    "company": "Company"
     },
     {
       "id": 6,
@@ -116,7 +144,7 @@
       },
       "phone": "123-123-4421",
       "website": "ramiro.info",
-      "company": "Romaguera-Jacobson"
+      "company": "Company"
   },
   {
       "id": 7,
@@ -131,7 +159,7 @@
       },
       "phone": "123-130-1123",
       "website": "kale.biz",
-      "company": "Robel-Corkery"
+      "company": "Company"
     }
   ]
 }
